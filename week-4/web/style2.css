@@ -1,0 +1,26 @@
+h1{
+    background-color: aliceblue;
+    font-size: xx-large;
+    color: brown;
+}h2{
+    background-color: palegreen;
+    font-size: x-large;
+    color: plum;
+}
+h3{
+    background-color: olive;
+    font-size: larger;
+    color: ivory;
+}h4{
+    background-color: rosybrown;
+    font-size: large;
+    color: lightpink;
+}h5{
+    background-color: palegoldenrod;
+    font-size: medium;
+    color: navy;
+}h6{
+    background-color: cornflowerblue;
+    font-size: small;
+    color: black;
+}
