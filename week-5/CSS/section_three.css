@@ -12,19 +12,18 @@ body {
 }
 .left-column {
   width: 50%;
-  background-color:black;
+  background-color:teal;
   padding: 5%;
   color: wheat;
 }
 h1 {
   font-size: 50px;
   line-height: 1.1;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
   font-family: "Unbounded", cursive;
 }
-h2 {
-  margin-bottom: 100px;
-  font-weight: 200;
+.venue{
+    margin-bottom: 50px;
 }
 .right-column {
   width: 50%;
@@ -40,11 +39,10 @@ figure {
 .button {
   margin-top: 20px;
 }
-
 .button a {
   display: inline-block;
   padding: 10px 50px;
-  background: blueviolet;
+  background: yellow;
   border-radius: 30px;
   text-decoration: none;
   color: black;
@@ -53,7 +51,6 @@ figure {
   font-weight: 800;
   transition: all 0.5s ease;
 }
-
 .button a:hover {
   background: black;
   color: orange;
